@@ -1,0 +1,9 @@
+Les cases du damier du jeu serpents et échelles sont numérotées de 1 à 100.
+
+On lance les dés et on avance d'autant de cases que le chiffre indiqué par les deux dés.
+
+Si on tombe sur une case où se trouve le bas d'une échelle,on grimpe jusqu'en haut de l'échelle.
+
+Si on tombe sur une case où se trouve la tête d'un serpent, on descend jusqu'à l'extrémité de sa queue.
+
+Pour gagner, il faut atteindre la case 100
